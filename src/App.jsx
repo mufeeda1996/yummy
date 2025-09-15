@@ -1,6 +1,6 @@
 import React from 'react'
-import LoginPage from './components/Partner'
-import Home from './components/Home'
+// import LoginPage from './components/Partner'
+// import Home from './components/Home'
 
 
 
@@ -8,7 +8,7 @@ import Home from './components/Home'
 const App = () => {
   return (
     <>
-    <LoginPage/>
+    {/* <LoginPage/> */}
     {/* <Home/> */}
     </>
   )
