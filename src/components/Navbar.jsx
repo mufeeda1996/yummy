@@ -87,7 +87,7 @@ const Navbar = () => {
           </h1>
         </Link>
         <div className='flex items-center gap-3'>
-        <Link to='/admin'> <button className="btn sm:btn-sm md:btn-md bg-white text-orange-600 rounded-full font-semibold shadow hover:shadow-md transition"> Become a partner </button></Link>
+        {/* <Link to='/admin'> <button className="btn sm:btn-sm md:btn-md bg-white text-orange-600 rounded-full font-semibold shadow hover:shadow-md transition"> Become a partner </button></Link> */}
           <button
             className="btn bg-white text-orange-600 rounded-full font-semibold shadow"
             onClick={() => document.getElementById("my_modal_3").showModal()}
