@@ -1,0 +1,74 @@
+
+[
+    {
+      "id": 1,
+      "name": "Al Noor Restaurant",
+      "place": "Dubai Marina, Dubai",
+      "food": ["Shawarma", "Hummus", "Grilled Chicken"],
+      "image": "https://tse2.mm.bing.net/th/id/OIP.URG0AsrEXL8ogLwKosKNswHaJl?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": 2,
+      "name": "Golden Biryani",
+      "place": "Abu Dhabi Corniche, Abu Dhabi",
+      "food": ["Chicken Biryani", "Mutton Biryani", "Vegetable Biryani"],
+      "image": "https://tse1.mm.bing.net/th/id/OIP.lMfhMgzolRvIfctPteWMkwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": 3,
+      "name": "Falafel King",
+      "place": "Sharjah City Center, Sharjah",
+      "food": ["Falafel Sandwich", "Tabbouleh", "Stuffed Grape Leaves"],
+      "image": "https://streetfoodfinder.com/static/uploads/vendor/photos/475996/profile_e"
+    },
+    {
+      "id": 4,
+      "name": "Tandoori Nights",
+      "place": "Bur Dubai, Dubai",
+      "food": ["Butter Chicken", "Naan", "Paneer Tikka"],
+      "image": "https://tse2.mm.bing.net/th/id/OIP.-ndMbbnDa5vPzgLYrBbLMgHaE7?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 5,
+      "name": "Seafood Delight",
+      "place": "Ajman Beach Road, Ajman",
+      "food": ["Grilled Fish", "Shrimp Curry", "Calamari Rings"],
+      "image": "https://th.bing.com/th/id/OIP.kBXzAL1WBJsh3jMl9yIFhgHaFG?w=282&h=194&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "id": 6,
+      "name": "Desert Sweets",
+      "place": "Al Ain Mall, Al Ain",
+      "food": ["Baklava", "Kunafa", "Basbousa"],
+      "image": "https://th.bing.com/th/id/OIP.lIeJtAqOaseymW0ZDEFjiQHaE-?w=249&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "id": 7,
+      "name": "Pizza Hub",
+      "place": "Downtown Dubai",
+      "food": ["Margherita Pizza", "Pepperoni Pizza", "Veggie Pizza"],
+      "image": "https://tse2.mm.bing.net/th/id/OIP.RWaaZCnAJwE8O0FxwD7y0AHaEo?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 8,
+      "name": "Curry Express",
+      "place": "Deira, Dubai",
+      "food": ["Chicken Curry", "Dal Tadka", "Garlic Naan"],
+      "image": "https://th.bing.com/th/id/OIP.DEGzhbOQ35mvY9wVO4_xewHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 9,
+      "name": "Burger Corner",
+      "place": "Ras Al Khaimah",
+      "food": ["Beef Burger", "Chicken Burger", "Veggie Burger"],
+      "image": "https://th.bing.com/th/id/OIP.gEOwFRXC7xWhPinUTtAxegHaHa?w=195&h=195&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "id": 10,
+      "name": "Sushi World",
+      "place": "Jumeirah, Dubai",
+      "food": ["California Roll", "Salmon Nigiri", "Tempura"],
+      "image": "https://tse2.mm.bing.net/th/id/OIP.bPOVa_V93cwN4H62jsiWjgHaE4?rs=1&pid=ImgDetMain&o=7&rm=3"
+    }
+  ]
+  
