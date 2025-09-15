@@ -11,6 +11,7 @@ import UserRoot from './roots/UserRoot';
 import AdminRoot from './roots/AdminRoot'
 import Home from './components/Home';
 import Partner from './components/Partner';
+
 // import Categories from './components/MealsList';
 import MealsList from './components/MealsList';
 import Food from './components/Food';
