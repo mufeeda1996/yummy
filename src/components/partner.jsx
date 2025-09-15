@@ -1,6 +1,6 @@
 import React from 'react';
 
-const LoginPage = () => {
+const Partner = () => {
   return (
     <div className="min-h-screen bg-orange-50 flex flex-col items-center justify-center px-4">
       {/* Login / Signup Card */}
@@ -74,4 +74,4 @@ const LoginPage = () => {
   );
 };
 
-export default LoginPage;
+export default Partner;
