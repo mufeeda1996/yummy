@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Partner = () => {
+const Admin = () => {
   return (
     <div className="min-h-screen bg-orange-50 flex flex-col items-center justify-center px-4">
       {/* Login / Signup Card */}
       <div className="w-full max-w-md bg-white p-8 rounded-lg shadow-lg mb-12">
-        <h1 className="text-3xl font-bold text-center text-orange-600 mb-6">Yummy Partner</h1>
+        <h1 className="text-3xl font-bold text-center text-orange-600 mb-6">Yummy Admin</h1>
         <form className="space-y-4">
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1">Email</label>
@@ -74,4 +74,4 @@ const Partner = () => {
   );
 };
 
-export default Partner;
+export default Admin;

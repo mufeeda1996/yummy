@@ -10,7 +10,7 @@ import App from './App.jsx'
 import UserRoot from './roots/UserRoot';
 import AdminRoot from './roots/AdminRoot'
 import Home from './components/Home';
-import Partner from './components/Partner';
+import Admin from './components/Admin';
 
 // import Categories from './components/MealsList';
 import MealsList from './components/MealsList';
@@ -49,7 +49,7 @@ const router= createBrowserRouter([
     children:[
      {
        path:'/admin',
-       element:<Partner/>
+       element:<Admin/>
      },
      {
       path:'career',
